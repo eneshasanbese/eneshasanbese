@@ -20,7 +20,8 @@
 
 ## 🛠️ Kullandığım Teknolojiler
 
-**💬 Programlama Dilleri**
+<p align="center"><strong>💬 Programlama Dilleri</strong></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -28,7 +29,10 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-**🌐 Web Teknolojileri**
+<hr style="border: 0; border-top: 1px solid #333; opacity: 0.3;" />
+
+<p align="center"><strong>🌐 Web Teknolojileri</strong></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -36,18 +40,27 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-**🗄️ Veritabanları**
+<hr style="border: 0; border-top: 1px solid #333; opacity: 0.3;" />
+
+<p align="center"><strong>🗄️ Veritabanları</strong></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-**🔧 Araçlar**
+<hr style="border: 0; border-top: 1px solid #333; opacity: 0.3;" />
+
+<p align="center"><strong>🔧 Araçlar</strong></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-**📚 Öğrenme Aşamasında**
+<hr style="border: 0; border-top: 1px solid #333; opacity: 0.3;" />
+
+<p align="center"><strong>📚 Öğrenme Aşamasında</strong></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
