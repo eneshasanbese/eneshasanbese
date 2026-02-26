@@ -10,7 +10,10 @@
 
 - 💻 Yazılım ve web geliştirme üzerine çalışıyorum
 - 🌱 Kendimi sürekli geliştirmeye ve yeni teknolojiler öğrenmeye odaklanıyorum
-- 🎯 Hedefim: Temiz, sürdürülebilir ve kullanıcı dostu uygulamalar geliştirmek
+- 🚀 Güncel projelerimde Spring Boot ve React teknolojilerini aktif olarak kullanıyorum
+- 🎮 Unity ile oyun geliştirme alanında kendimi geliştirmeye devam ediyorum
+- 🐳 Docker ve Jenkins ekosistemini öğreniyor, DevOps dünyasına adım atıyorum
+- 🐧 Sanal makine üzerinde Lubuntu kurarak Linux öğrenme yolculuğuma başladım
 - 📂 Projelerimi ve öğrendiklerimi GitHub'da paylaşıyorum
 
 ---
@@ -27,29 +30,23 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 </p>
-
----
-
-## 🎯 Hedeflerim
-
-- 🔥 Full-Stack web geliştirme alanında uzmanlaşmak
-- 🤖 Python ile veri odaklı projeler geliştirmek
-- 🌍 Açık kaynak projelere katkı sağlamak
-- 📈 Her gün bir şeyler öğrenip büyümeye devam etmek
 
 ---
 
 ## 📬 İletişim
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/eneshasanbese" target="_blank">
+  <a href="https://www.linkedin.com/in/enes-hasanbeşe-10752a289/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/eneshasanbese" target="_blank">
+  <a href="https://www.instagram.com/eneshh._/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:eneshasanbese@gmail.com">
+  <a href="mailto:hasnbeseler37@gmail.com">
     <img src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
