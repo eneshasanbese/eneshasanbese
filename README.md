@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-<hr style="border: 0; border-top: 1px solid #333; opacity: 0.3;" />
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="50%" /></p>
 
 <p align="center"><strong>🌐 Web Teknolojileri</strong></p>
 
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<hr style="border: 0; border-top: 1px solid #333; opacity: 0.3;" />
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="50%" /></p>
 
 <p align="center"><strong>🗄️ Veritabanları</strong></p>
 
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<hr style="border: 0; border-top: 1px solid #333; opacity: 0.3;" />
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="50%" /></p>
 
 <p align="center"><strong>🔧 Araçlar</strong></p>
 
@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<hr style="border: 0; border-top: 1px solid #333; opacity: 0.3;" />
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="50%" /></p>
 
 <p align="center"><strong>📚 Öğrenme Aşamasında</strong></p>
 
